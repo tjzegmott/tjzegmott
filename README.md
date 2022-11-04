@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🔭
+
+[![tjzegmott's github stats](https://github-readme-stats.vercel.app/api?username=tjzegmott&count_private=true&show_icons=true)](https://github.com/tjzegmott)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjzegmott&hide=php)](https://github.com/tjzegmott)
 
 <!--
 **tjzegmott/tjzegmott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
